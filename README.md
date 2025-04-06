@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliha-moon&label=Profile%20views&color=0e75b6&style=flat" alt="maliha-moon" /> </p>
 
-- 🔭 I’m currently working on **Travel Planner project**
+- 🔭 I’m currently working on **AI Career Coach**
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Full-Stack development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
